@@ -1,0 +1,7 @@
+﻿{
+  "ConnectionStrings": {
+    "DataAccessMsSqlServerProvider-prod": "Data Source=optosem.chbzngjnkmol.ap-southeast-1.rds.amazonaws.com, 1433;Initial Catalog=galaEATSv2;User ID=optosem;Password=optosemsa1122;Connect Timeout=0",
+    "DataAccessMsSqlServerProvider": "Data Source=mok-hp;Initial Catalog=galaordering;User ID=sa;Password=Sa123;Connect Timeout=0"
+
+  }
+}
